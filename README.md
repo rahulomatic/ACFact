@@ -11,6 +11,9 @@ Creating high-quality content consistently is time-consuming, resource-intensive
 
 ---
 
+<img width="1910" height="1193" alt="image" src="https://github.com/user-attachments/assets/95e0ef3e-a385-4976-915c-23aed1aaba57" />
+
+
 The Solution
 
 The Autonomous Content Factory (ACFact) solves this problem by using a system of AI agents that collaboratively generate content.
